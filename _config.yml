@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A blog about software development, technology and perhaps other stuff!
 url: "https://jens.codes" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jtheb
-linkedin_username: 💻-jens-burkard-808197171
+linkedin_username: jenscodes
 
 # Build settings
 markdown: kramdown
