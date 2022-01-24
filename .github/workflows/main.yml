@@ -39,4 +39,4 @@ jobs:
         ftp_username: ${{ secrets.ftp_username }}
         ftp_password: ${{ secrets.ftp_password }} 
       run: |
-        ncftpput -R -v -u "$ftp_username" -p "$ftp_password" $ftp_location /public_html/jenscodes _site/*
+        ncftpput -R -v -u "$ftp_username" -p "$ftp_password" $ftp_location /jenscodes _site/*
