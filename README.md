@@ -1,4 +1,4 @@
-# jens.codes
+# [jens.codes](https://jens.codes)
 Little personal blog
 
 # Deploys automated changes to Hetzner ftp
