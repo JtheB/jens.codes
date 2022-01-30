@@ -21,7 +21,7 @@ categories:
 # Using the Pinephone after a year of it resting in the cupboard
 
 My Pinephone rested in my cupboard for a year, since I didn't have time to play and develop with it too much. It wasn't very usable (except if you had plenty of time to wait for the UI) the last time I used it. In January a friend messaged me, that the keyboard for the Pinephone was available and being spontaneous, so I ordered it.
-
+<!--more-->
 This week it arrived and I dusted off the Pinephone and installed fresh new OSs.
 
 {% include image.html description="Pinephone with keyboard attached" url="/assets/images/pinephone/pinephone-1.jpg" %}
