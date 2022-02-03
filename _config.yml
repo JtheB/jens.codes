@@ -40,4 +40,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 excerpt_separator: <!--more-->
+
+minima:
+  skin: dark
+  date_format: "%-d %b, %Y"
